@@ -21,7 +21,9 @@
 
 <p align="left"> 
 <a href="https://www.instagram.com/___flutter_x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+
 <a href="https://github.com/jay-isampelliwar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a>
+ <a href="https://www.linkedin.com/in/jay-isampelliwar21/" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" width="36" height="36" /></a>
 </p>
 
 ### Badges
