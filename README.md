@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hello Everyone 👋, My name is Jay<br>I'm Software Engineering Student👨‍💻.<br>I’m interested in Mobile App Development.<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-isampelliwar21/) 
 
