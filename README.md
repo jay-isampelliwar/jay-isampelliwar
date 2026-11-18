@@ -30,11 +30,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,rust,dart,postgres,fastapi,redis,docker,flutter&theme=dark" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=livekit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
+  <img src="./ai-stack.svg" alt="LangGraph, LangChain, LiveKit, Langfuse, RAG" />
 </p>
 
 ### 📊 GitHub Stats
