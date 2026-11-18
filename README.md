@@ -12,10 +12,12 @@
 
 ### 🙋 About me
 
-- 🧠 I build production LLM agents, voice AI systems and Python backends
-- 🧪 I set up RAG, LLM-as-judge evals and Langfuse tracing
-- 📱 Started as a Flutter developer, now I own the full flow
-- 🌱 Currently building an AI-native financial planner
+- 🤖 I build AI agents that think, call tools and stream answers live
+- 🎙️ I build real-time voice agents that listen, think and talk back
+- 🧪 I use LLM-as-judge evals to catch bad answers before they reach users
+- ⚡ I design event-driven agent backends where no conversation ever gets lost
+
+
 
 ### 🤖 How my agents work
 
