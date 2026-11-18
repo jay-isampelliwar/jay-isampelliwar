@@ -17,6 +17,12 @@
 - 📱 Started as a Flutter developer, now I own the full flow
 - 🌱 Currently building an AI-native financial planner
 
+### 🤖 How my agents work
+
+<p align="center">
+  <img width="100%" src="./agent-flow.svg" alt="Agent flow: voice, thinking, tool calls, streaming answer" />
+</p>
+
 ### 🛠️ Tech Stack
 
 <p align="center">
