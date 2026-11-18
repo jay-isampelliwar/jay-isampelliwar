@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300">
+<style>@keyframes klisten{0%,1.93%{opacity:0}3.67%,16.00%{opacity:1}17.67%,100%{opacity:0}}.listen{opacity:0;animation:klisten 15.0s linear infinite}@keyframes kheard{0%,15.27%{opacity:0}17.00%,95.33%{opacity:1}97.00%,100%{opacity:0}}.heard{opacity:0;animation:kheard 15.0s linear infinite}@keyframes kthink{0%,23.93%{opacity:0}25.67%,37.33%{opacity:1}39.00%,100%{opacity:0}}.think{opacity:0;animation:kthink 15.0s linear infinite}@keyframes ktl{0%,23.93%{opacity:0}25.67%,95.33%{opacity:1}97.00%,100%{opacity:0}}.tl{opacity:0;animation:ktl 15.0s linear infinite}@keyframes kthought{0%,37.27%{opacity:0}39.00%,95.33%{opacity:1}97.00%,100%{opacity:0}}.thought{opacity:0;animation:kthought 15.0s linear infinite}@keyframes kt1{0%,39.27%{opacity:0}41.00%,95.33%{opacity:1}97.00%,100%{opacity:0}}.t1{opacity:0;animation:kt1 15.0s linear infinite}@keyframes kt1run{0%,39.27%{opacity:0}41.00%,45.33%{opacity:1}47.00%,100%{opacity:0}}.t1run{opacity:0;animation:kt1run 15.0s linear infinite}@keyframes kt1ok{0%,45.27%{opacity:0}47.00%,95.33%{opacity:1}97.00%,100%{opacity:0}}.t1ok{opacity:0;animation:kt1ok 15.0s linear infinite}@keyframes kt2{0%,46.60%{opacity:0}48.33%,95.33%{opacity:1}97.00%,100%{opacity:0}}.t2{opacity:0;animation:kt2 15.0s linear infinite}@keyframes kt2run{0%,46.60%{opacity:0}48.33%,52.67%{opacity:1}54.33%,100%{opacity:0}}.t2run{opacity:0;animation:kt2run 15.0s linear infinite}@keyframes kt2ok{0%,52.60%{opacity:0}54.33%,95.33%{opacity:1}97.00%,100%{opacity:0}}.t2ok{opacity:0;animation:kt2ok 15.0s linear infinite}@keyframes kans{0%,55.27%{opacity:0}57.00%,95.33%{opacity:1}97.00%,100%{opacity:0}}.ans{opacity:0;animation:kans 15.0s linear infinite}@keyframes kcaret{0%,55.27%{opacity:0}57.00%,95.33%{opacity:1}97.00%,100%{opacity:0}}.caret{opacity:0;animation:kcaret 15.0s linear infinite}@keyframes ktq{0%,16.00%{transform:translateX(0);animation-timing-function:steps(34,end)}22.67%,100%{transform:translateX(420px)}}.tq{animation:ktq 15.0s linear infinite}@keyframes kta1{0%,56.00%{transform:translateX(0);animation-timing-function:steps(34,end)}66.00%,100%{transform:translateX(312px)}}.ta1{animation:kta1 15.0s linear infinite}@keyframes kta2{0%,66.00%{transform:translateX(0);animation-timing-function:steps(50,end)}79.33%,100%{transform:translateX(458px)}}.ta2{animation:kta2 15.0s linear infinite}@keyframes kc1{0%,55.27%{opacity:0}57.00%,66.00%{opacity:1}67.67%,100%{opacity:0}}.c1{opacity:0;animation:kc1 15.0s linear infinite}@keyframes kc2{0%,65.93%{opacity:0}67.67%,95.33%{opacity:1}97.00%,100%{opacity:0}}.c2{opacity:0;animation:kc2 15.0s linear infinite}@keyframes bar{0%,100%{transform:scaleY(.3)}50%{transform:scaleY(1)}}.bar{transform-box:fill-box;transform-origin:center;animation:bar .9s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}.spin{transform-box:fill-box;transform-origin:center;animation:spin .8s linear infinite}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.blink{animation:blink 1s steps(1) infinite}text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:15px;fill:#c0caf5}.dim{fill:#565f89}.lbl{font-weight:700}</style>
+<rect width="840" height="300" rx="12" fill="#1a1b26"/>
+<rect width="840" height="36" rx="12" fill="#16161e"/><rect y="24" width="840" height="12" fill="#16161e"/>
+<circle cx="22" cy="18" r="6" fill="#f7768e"/><circle cx="42" cy="18" r="6" fill="#e0af68"/><circle cx="62" cy="18" r="6" fill="#9ece6a"/>
+<text x="420" y="23" text-anchor="middle" class="dim" style="font-size:13px">agent.run()</text>
+
+<text x="24" y="76" class="lbl" style="fill:#7dcfff">voice</text>
+<g class="listen"><rect class="bar" x="100" y="62" width="5" height="18" rx="2" fill="#7dcfff" style="animation-delay:0.00s"/><rect class="bar" x="109" y="62" width="5" height="18" rx="2" fill="#7dcfff" style="animation-delay:0.12s"/><rect class="bar" x="118" y="62" width="5" height="18" rx="2" fill="#7dcfff" style="animation-delay:0.24s"/><rect class="bar" x="127" y="62" width="5" height="18" rx="2" fill="#7dcfff" style="animation-delay:0.36s"/><rect class="bar" x="136" y="62" width="5" height="18" rx="2" fill="#7dcfff" style="animation-delay:0.48s"/><rect class="bar" x="145" y="62" width="5" height="18" rx="2" fill="#7dcfff" style="animation-delay:0.60s"/><text x="162" y="76" class="dim">listening...</text></g>
+<g class="heard"><text x="100" y="76">"How are my goals doing this month?"</text>
+<rect class="tq" x="96" y="58" width="440" height="26" fill="#1a1b26"/></g>
+
+<g class="tl"><text x="24" y="114" class="lbl" style="fill:#bb9af7">think</text></g>
+<g class="think"><circle class="spin" cx="108" cy="109" r="7" fill="none" stroke="#bb9af7" stroke-width="2.5" stroke-dasharray="30 14"/>
+<text x="124" y="114" class="dim">reasoning about goals and portfolio...</text></g>
+<g class="thought"><text x="100" y="114" class="dim">thought for 2.0s</text></g>
+
+<g class="t1"><text x="24" y="150" class="lbl" style="fill:#e0af68">tool</text>
+<text x="100" y="150">get_goals(user_id)</text>
+<text x="400" y="150" class="t1run dim">running...</text>
+<text x="400" y="150" class="t1ok" style="fill:#9ece6a">done  84ms</text></g>
+
+<g class="t2"><text x="24" y="180" class="lbl" style="fill:#e0af68">tool</text>
+<text x="100" y="180">get_portfolio(user_id)</text>
+<text x="400" y="180" class="t2run dim">running...</text>
+<text x="400" y="180" class="t2ok" style="fill:#9ece6a">done  112ms</text></g>
+
+<g class="ans"><text x="24" y="222" class="lbl" style="fill:#7aa2f7">agent</text>
+<text x="100" y="222">You are on track for 2 of 3 goals.</text>
+<text x="100" y="246">Add 4k a month to the house fund to stay on time.</text>
+<g class="ta1"><rect x="98" y="206" width="560" height="24" fill="#1a1b26"/><g class="c1"><rect class="blink" x="98" y="208" width="9" height="18" fill="#7aa2f7"/></g></g>
+<g class="ta2"><rect x="98" y="230" width="560" height="24" fill="#1a1b26"/><g class="c2"><rect class="blink" x="98" y="232" width="9" height="18" fill="#7aa2f7"/></g></g></g>
+
+<text x="816" y="284" text-anchor="end" class="dim" style="font-size:12px">voice -> think -> tools -> stream</text>
+</svg>
